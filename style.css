@@ -4,4 +4,10 @@ body {
     background-color: black;
     color: lightblue;
     text-align: center;
+    font-size: large;
+}
+
+img {
+    width: 150px;
+    height: 150px;
 }
